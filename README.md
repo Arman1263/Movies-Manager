@@ -17,16 +17,6 @@ A simple and interactive **Movie Management** app built using **Python, Streamli
 
 ---
 
-
-Install dependencies
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the Streamlit app
-
-
 🧪 Technologies Used
 Python
 Streamlit
